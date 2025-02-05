@@ -1,0 +1,7 @@
+{
+  "compilerOptions": {
+    "allowJs": true,
+    "checkJs": true, // Enable type checking in JavaScript files @ts-check
+    "noImplicitAny": true, // Raise error on expressions and declarations with an implied 'any' type
+  }
+}
